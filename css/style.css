@@ -17,7 +17,18 @@
 
 font-family: 'Patua One', cursive;}
 
-.customNav {background-color: darkred}
+.customNav {background-color: darkred;
+}
+
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;	
+	padding:14px 16px;
+	text-decoration: none;
+}
+
 
 .askrenHighlights {opacity: 0.8;
 	 filter: alpha(opacity=80)}
@@ -51,7 +62,8 @@ font-family: 'Patua One', cursive;}
 .ufcTitle {color: white}
 
 
-
 .ufcTitle {
 	font-family: 'Anton', sans-serif;
 }
+
+.ufcTitle {font-size: 800%}
