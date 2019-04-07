@@ -1,0 +1,57 @@
+.profilePic { max-width: 100%; 
+	}
+.youtube { 
+	color: red }
+.youtube:hover {color: darkred;
+	}
+.container {color: black}
+
+.aboutBackground {background-image: url("../img/benfight.jpg") }
+.aboutBackground {background-size: cover;}
+
+
+
+.card {margin-top: 10px}
+.aboutCard-block {background-color: lightgrey;
+
+
+font-family: 'Patua One', cursive;}
+
+.customNav {background-color: darkred}
+
+.askrenHighlights {opacity: 0.8;
+	 filter: alpha(opacity=80)}
+
+.askrenTrashTalk {opacity: 0.8;
+	 filter: alpha(opacity=80)}
+
+.fightHighlights {opacity: 1;
+	 filter: alpha(opacity=100)}
+
+.backgroundVideo {
+	position: fixed; 
+	right: -20%;
+	bottom: -15%;
+	width: auto;
+	min-width: 100%;
+	height: auto;
+	min-height: 100%;
+	background-size: cover;
+	z-index: -100;
+
+}
+
+.stretchRow	 {
+	height: 100vh;
+}
+.middleColumn {
+	margin:auto;
+}
+
+.ufcTitle {color: white}
+
+
+
+.ufcTitle {
+	font-family: 'Anton', sans-serif;
+}
