@@ -4,7 +4,13 @@
 	color: red }
 .youtube:hover {color: darkred;
 	}
-.container {color: black}
+.instagram:{
+	color: #000000}
+.instagram: hover { 
+	color: #000000 }
+
+.container {
+	color: black}
 
 .aboutBackground {background-image: url("../img/benfight.jpg") }
 .aboutBackground {background-size: cover;}
